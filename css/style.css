@@ -1,3 +1,77 @@
+.top-container {
+    background-color: #E4F9F5;
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding-top: 150px;
+    position: relative;
+}
+
 body {
-    background-color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.heading {
+    margin: 0 auto 0 auto;
+    color: #30E3CA;
+    width: 15%;
+    font-family: 'Redressed', cursive;
+}
+
+.sub-heading {
+    margin: 0 auto 0 auto;
+    padding-top: 10px;
+    color: #30E3CA;
+    font-family: 'Redressed', cursive;
+    width: 10%;
+}
+
+.scenery {
+    height: 550px;
+    width: 1000px;
+}
+
+.cloud1 {
+    height: 80px;
+    width: 250px;
+    position: absolute;
+    right: 300px;
+    top: 150px;
+}
+
+.cloud2 {
+    height: 80px;
+    width: 250px;
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+
+.about {
+    position: absolute;
+    right: 450px;
+    top: 10px;
+    color: #30E3CA;
+}
+
+.education {
+    position: absolute;
+    right: 300px;
+    top: 10px;
+    color: #30E3CA;
+}
+
+.work {
+    position: absolute;
+    right: 200px;
+    top: 10px;
+    color: #30E3CA;
+}
+
+.contact-me {
+    position: absolute;
+    right: 80px;
+    top: 10px;
+    color: #30E3CA;
 }
