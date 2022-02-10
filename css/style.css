@@ -3,8 +3,16 @@
     height: auto;
     width: auto;
     margin: 0;
-    padding-top: 150px;
+    padding-top: 80px;
     position: relative;
+}
+
+.header {
+    background-color: #00ffd0;
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding-top: 100px;
 }
 
 body {
@@ -52,26 +60,39 @@ body {
     position: absolute;
     right: 450px;
     top: 10px;
-    color: #30E3CA;
+    color: #53a096;
 }
 
 .education {
     position: absolute;
     right: 300px;
     top: 10px;
-    color: #30E3CA;
+    color: #53a096;
 }
 
 .work {
     position: absolute;
     right: 200px;
     top: 10px;
-    color: #30E3CA;
+    color: #53a096;
 }
 
 .contact-me {
     position: absolute;
     right: 80px;
     top: 10px;
-    color: #30E3CA;
+    color: #53a096;
+}
+
+.profile {
+    height: 200px;
+    width: 200px;
+}
+
+.profile-logo {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 100px;
+    top: 10px;
 }
